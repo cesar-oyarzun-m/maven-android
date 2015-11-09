@@ -4,7 +4,7 @@
 
   <groupId>exp.com</groupId>
   <artifactId>android</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
   <name>android</name>
@@ -27,7 +27,4 @@
     	<version>2.0.0-beta2</version>
     </dependency>
   </dependencies>
-  <distributionManagement>
-  	<repository>https://github.com/cesar-oyarzun-m/maven-android</repository>
-  </distributionManagement>
 </project>
